@@ -165,8 +165,8 @@ const //database
 ║130 *${prefix}animehug*
 ║131 *${prefix}shoturl*
 ║132 *${prefix}pokemon*
-║
-║
+║133 *${prefix}dono*
+║134 *${prefix}nulia*
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
 ║ *NOME: 𝐙𝐄𝐔𝐒 😡🤚*
